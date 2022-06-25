@@ -7,7 +7,7 @@ export default [
         categorySlug: "/typography",
       },
       frontmatter: {
-        date: "2016-09-01",
+        date: "09-01-2016",
         description:
           "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.",
         category: "typography",
@@ -25,7 +25,7 @@ export default [
         categorySlug: "/design-inspiration",
       },
       frontmatter: {
-        date: "2016-09-01",
+        date: "09-01-2016",
         description:
           "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.",
         category: "design inspiration",
